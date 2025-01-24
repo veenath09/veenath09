@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi there! 👋 I'm Veenath Wickramaarchchi, an enthusiastic undergraduate with a deep passion for Artificial Intelligence, Machine Learning, and bio-inspired computing. I'm always curious about exploring cutting-edge technologies and thrive on collaborating on innovative projects. Let's connect and create something impactful together! 🚀
+
 Feel free to connect with me - veenathwickramaarchchi@gmail.com
 
 ## 🌐 Socials:
